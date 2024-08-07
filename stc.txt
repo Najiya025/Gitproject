@@ -1,1 +1,1 @@
-File edit and commit
+updated stc file to local folder
